@@ -3,7 +3,11 @@
 ## About Me 🚀
 
 I'm not your average coder; I'm a wizard of code, a chess player, and a wordsmith who crafts dreams with words. I have mastered the art of programming and the battlefield of chess, bringing my unique blend of creativity and logic to every project.
-
+<style>
+img:hover{
+color: red;
+}
+</style>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
