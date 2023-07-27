@@ -1,20 +1,13 @@
-# Hey there, I'm Untitledmaster! 👋
+<h1 align="center">Hi 👋, I'm Untitled Master</h1>
 
 ## About Me 🚀
 
 I'm not your average coder; I'm a wizard of code, a chess player, and a wordsmith who crafts dreams with words. I have mastered the art of programming and the battlefield of chess, bringing my unique blend of creativity and logic to every project.
-
-## My Superpowers 💻📚🏆
-
-- **Coding Ninja**: I wield the power of Python, HTML/CSS, JavaScript, and C to create mesmerizing and powerful applications.
-- **Chess Bromaster**: My mind is a chessboard, where every move is strategically calculated to claim victory.
-- **Wordsmith**: My pen dances on the paper, weaving enchanting tales that whisk readers away to extraordinary realms.
-
 ## Connect with Me 🤝
 
 I love collaborating with fellow developers, writers, and chess enthusiasts. Let's create something extraordinary together! Connect with me on:
 
-🐦 [Twitter]([https://twitter.com/Untitledmaster](https://twitter.com/untitledmaster0))
+🐦 [Twitter](https://twitter.com/untitledmaster0)
 
 ## Open Source Contributions 🌟
 
