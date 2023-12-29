@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤫 I am currently working on a secret project.<br>🤝 I am looking to collaborate on the project named Circle.<br>📚 I am currently learning JavaScript.
+🤫 I am currently studying so **No more projects, sorry**
 
 
 ## 🌐 Socials:
