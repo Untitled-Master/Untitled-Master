@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Pure mathematics is, in its way, the poetry of logical ideas.</h4>
+<h2 align="center">Pure mathematics is, in its way, the poetry of logical ideas.</h2>
 
 ###
 
