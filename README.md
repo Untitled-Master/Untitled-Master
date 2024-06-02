@@ -46,8 +46,4 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://lichess-bio.vercel.app/" target="_blank">
-    <img src="https://lichess-bio.vercel.app/themes/Carbon/carbon.css" width="100%" height="300px" alt="Lichess Widget" />
-  </a>
-</div>
+![User Widget](https://datahosting.vercel.app/247783c2-3747-40cc-bbe8-05b6d83b53c2.jpg)
