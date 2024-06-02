@@ -44,5 +44,7 @@
 
 
 <br/>
+  <a href="https://medium.com/@untitledmaster16" target="_blank">
+    <img src="https://lichess-bio.vercel.app/test.svg" height="34" alt="medium logo" />
+  </a>
 
-![User Widget]([https://lichess-bio.vercel.app/test.html](https://lichess-bio.vercel.app/test.html))
