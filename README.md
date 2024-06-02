@@ -46,6 +46,7 @@
   </a>
 </div>
 
+<iframe src="[https://your-project-name.vercel.app/lichess-widget.html](https://lichess-bio.vercel.app/)" width="100%" height="300px" frameborder="0" scrolling="no"></iframe>
 
-![Lichess User Widget](https://lichess-bio.vercel.app/)
+
 ###
