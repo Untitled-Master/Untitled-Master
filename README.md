@@ -45,6 +45,6 @@
 
 <br/>
   <a href="https://medium.com/@untitledmaster16" target="_blank">
-    <img src="https://lichess-bio.vercel.app/test.svg" height="34" alt="medium logo" />
+    <img src="https://github.com/Untitled-Master/LichessBio/blob/main/test.svg" height="34" alt="medium logo" />
   </a>
 
