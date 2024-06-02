@@ -45,4 +45,4 @@
 
 <br/>
 
-![User Widget](https://lichess-bio.vercel.app/)
+![User Widget](https://lichess-bio.vercel.app/test.html)
