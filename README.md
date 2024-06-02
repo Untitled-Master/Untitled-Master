@@ -42,8 +42,7 @@
 
 <br/>
 
-<h3 align="center">Lichess Widget:</h3>
 
 <br/>
 
-![User Widget](https://datahosting.vercel.app/247783c2-3747-40cc-bbe8-05b6d83b53c2.jpg)
+![User Widget](https://lichess-bio.vercel.app/)
