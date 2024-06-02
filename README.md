@@ -46,4 +46,6 @@
   </a>
 </div>
 
+
+![Lichess User Widget](https://lichess-bio.vercel.app/)
 ###
