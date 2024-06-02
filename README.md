@@ -47,5 +47,7 @@
 <br/>
 
 <div align="center">
-  <iframe src="https://lichess-bio.vercel.app/" width="100%" height="300px" frameborder="0" scrolling="no"></iframe>
+  <a href="https://lichess-bio.vercel.app/" target="_blank">
+    <img src="https://lichess-bio.vercel.app/themes/Carbon/carbon.css" width="100%" height="300px" alt="Lichess Widget" />
+  </a>
 </div>
