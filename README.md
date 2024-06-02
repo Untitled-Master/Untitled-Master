@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="https://lichess-bio.vercel.app/themes/Carbon/carbon.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
+  <script src="https://lichess-bio.vercel.app/themes/Carbon/carbon.js"></script>
 </head>
 
 <body>
@@ -55,7 +56,7 @@
     <!-- User information will be displayed here -->
   </div>
 
-  <script src="https://lichess-bio.vercel.app/themes/Carbon/carbon.js"></script>
+  
 
 </body>
 
