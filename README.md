@@ -46,5 +46,5 @@
 <br/>
 
 <div align="center">
-  <img height="200" src="https://lichess-seven.vercel.app/lichess-stats/Dzoomaster?v=1"  />
+  <img height="300" src="https://lichess-seven.vercel.app/lichess-stats/Dzoomaster?v=1"  />
 </div>
