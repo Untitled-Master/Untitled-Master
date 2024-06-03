@@ -44,5 +44,7 @@
 
 
 <br/>
-<p><img align="left" src="https://lichess-seven.vercel.app/lichess-stats/Dzoomaster?v=1" alt="Untitled-Master" /></p>
 
+<div align="center">
+  <img height="200" src="https://lichess-seven.vercel.app/lichess-stats/Dzoomaster?v=1"  />
+</div>
