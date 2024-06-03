@@ -1,7 +1,7 @@
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/c1/0e/31/c10e31d576bcafd2bf461d42271e4705.jpg"  />
 </div>
-![lichess](https://lichess-nu.vercel.app/lichess-stats/Dzoomaster)
+
 <br/>
 
 <h2 align="center">Pure mathematics is, in its way, the poetry of logical ideas.</h2>
@@ -45,6 +45,6 @@
 
 <br/>
   <a href="https://medium.com/@untitledmaster16" target="_blank">
-    <img src="https://github.com/Untitled-Master/LichessBio/blob/main/test.svg" height="34" alt="medium logo" />
+    <img src="https://lichess-nu.vercel.app/lichess-stats/Dzoomaster" height="34" alt="medium logo" />
   </a>
 
