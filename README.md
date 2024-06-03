@@ -1,8 +1,7 @@
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/c1/0e/31/c10e31d576bcafd2bf461d42271e4705.jpg"  />
-  <img height="200" src="https://lichess-nu.vercel.app/lichess-stats/Dzoomaster?v=1"  />
 </div>
-
+[lichess](https://lichess-nu.vercel.app/lichess-stats/Dzoomaster)
 <br/>
 
 <h2 align="center">Pure mathematics is, in its way, the poetry of logical ideas.</h2>
