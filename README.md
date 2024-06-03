@@ -44,7 +44,5 @@
 
 
 <br/>
-  <a href="https://medium.com/@untitledmaster16" target="_blank">
-    <img src="https://lichess-nu.vercel.app/lichess-stats/Dzoomaster" height="34" alt="medium logo" />
-  </a>
+<p><img align="left" src="https://lichess-seven.vercel.app/lichess-stats/Dzoomaster?v=1" alt="Untitled-Master" /></p>
 
