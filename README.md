@@ -5,7 +5,7 @@
 <p>
   
 ```Yo! <br>
-I'm Ahmed, a 18 y/o developer.
+I'm an 18 y/o developer.
 I enjoy reading, chess, and doing math.
 ```
 </p>
