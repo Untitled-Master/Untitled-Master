@@ -16,10 +16,6 @@ I enjoy reading, chess, and doing math.
 <img  align="center" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Untitled-Master&layout=compact"/>
 
 
-
-
-# 💻 Tech Stack:
-![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Untitled-Master&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Untitled-Master&theme=dark&hide_border=false)<br/>
