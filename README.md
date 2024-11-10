@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://steamuserimages-a.akamaihd.net/ugc/581323402269060791/F27CC8808B17B20737D5951834061004F071CD8B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" height="20%">    
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpvZjZ2aW95ZG0xem83bnp1eWl6NzZ0eGl2ZjZ1YTFsdjN3bm1jcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhJIPddgTQd0qGbvem/giphy.gif" width="100%" height="20%">    
 
 </div>
