@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/80/db/3b/80db3b88f81b7f6b65903d207061e255.gif" width="100%" height="20%">    
+<img src="https://steamuserimages-a.akamaihd.net/ugc/581323402269060791/F27CC8808B17B20737D5951834061004F071CD8B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" height="20%">    
 
 </div>
