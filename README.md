@@ -16,7 +16,6 @@
 
 
 ---
-[![committers.top badge](https://user-badge.committers.top/algeria/USERNAME.svg)](https://user-badge.committers.top/algeria/Untitled-Master)
-<a href="https://user-badge.committers.top/algeria/abdelillahbel"><img src="https://user-badge.committers.top/algeria/abdelillahbel.svg" alt="committers.top badge"></a>
+<a href="https://user-badge.committers.top/algeria/abdelillahbel"><img src="https://user-badge.committers.top/algeria/Untitled-Master.svg" alt="committers.top badge"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
