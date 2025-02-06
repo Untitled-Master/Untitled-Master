@@ -1,28 +1,29 @@
-<div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpvZjZ2aW95ZG0xem83bnp1eWl6NzZ0eGl2ZjZ1YTFsdjN3bm1jcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhJIPddgTQd0qGbvem/giphy.gif" width="100%" height="20%">    
-</div>
+## <b> **About me**</b>
+
+<picture> <img align="right" src="https://i.pinimg.com/1200x/ff/d6/8a/ffd68a8dcfe161385f57e1d39a9ea94b.jpg" width = 250px></picture>
+
+<br>
+
+- A passionate Self-taught Full-stack developer
+- Currently learning React.js
+
+<br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/untitledmaster) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/untitledmaster0) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-# INFO:
-[![](https://raw.githubusercontent.com/Untitled-Master/Untitled-Masterr/master/profile-summary-card-output/cobalt/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Untitled-Master/Untitled-Masterr/master/profile-summary-card-output/cobalt/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Untitled-Master/Untitled-Masterr/master/profile-summary-card-output/cobalt/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Untitled-Master/Untitled-Masterr/master/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Untitled-Master/Untitled-Masterr/master/profile-summary-card-output/cobalt/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,python,firebase,tailwindcss,nodejs,expressjs,vscode,vite,github,git,next)](https://skillicons.dev)
 
 
----
-<a href="https://user-badge.committers.top/algeria/abdelillahbel"><img src="https://user-badge.committers.top/algeria/Untitled-Master.svg" alt="committers.top badge"></a>
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+|              ![](https://github-readme-stats.vercel.app/api?username=Untitled-Master&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)              |                ![](https://github-readme-streak-stats.herokuapp.com/?user=Untitled-Master&theme=tokyonight&hide_border=false)                |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Untitled-Master&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=Untitled-Master&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) |
