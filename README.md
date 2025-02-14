@@ -16,7 +16,7 @@
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,python,firebase,tailwindcss,nodejs,expressjs,vscode,vite,github,git,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,c,python,firebase,tailwindcss,nodejs,expressjs,vscode,vite,github,git,next,electron,flask,postman)](https://skillicons.dev)
 
 
 <br>
