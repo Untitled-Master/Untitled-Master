@@ -2,7 +2,6 @@
   <p align='center'>
     <a href="https://user-badge.committers.top/algeria/Untitled-Master"><img src="https://user-badge.committers.top/algeria/Untitled-Master.svg" alt="committers.top badge"></a>
     <a href="https://github.com/Untitled-Master?tab=repositories"><img src="https://img.shields.io/github/stars/Untitled-Master?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
-    <img src="https://tracker.gg/overlays/overlay/cfd954fc-82bd-4406-9b39-2fa0ddbb14c9" width="500">
 
   </p>
 <picture> <img align="right" src="https://i.pinimg.com/1200x/ff/d6/8a/ffd68a8dcfe161385f57e1d39a9ea94b.jpg" width = 250px></picture>
