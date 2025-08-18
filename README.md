@@ -17,7 +17,7 @@
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?perline=8&i=c,python,js,css,html,nodejs,react,vite,tailwind,express,flask,firebase,electron,git,github,postman,godot,vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=10&i=c,python,js,css,html,nodejs,react,vite,tailwind,express,flask,firebase,electron,git,github,postman,godot,vscode,vercel)](https://skillicons.dev)
 
 
 <br>
