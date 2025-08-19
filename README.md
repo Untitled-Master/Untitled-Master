@@ -16,7 +16,7 @@
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?perline=8&i=c,py,html,css,bootstrap,tailwind,js,react,vite,nodejs,express,flask,electron,firebase,supabase)
+![My Skills](https://skillicons.dev/icons?perline=8&i=c,py,html,css,bootstrap,tailwind,js,react,vite,nodejs,express,flask,electron,firebase)
 
 ### Tools
 
