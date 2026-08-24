@@ -9,15 +9,19 @@
 
 <br>
 
-- A passionate Self-taught Full-stack developer
-- Currently learning React.js
+- Full-stack developer focused on systems, security, and industrial software.
+- Interested in maintenance management (GMAO) and enterprise platforms such as IBM Maximo, MREF.
+- Learning more about DBs.
 
 <br><br>
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?perline=8&i=c,py,java,js,html,css,tailwind,react,vite,nodejs,express,flask,electron,firebase,supabase,git)
-![convex](convex.png)
+<p>
+  <img src="https://skillicons.dev/icons?perline=8&i=c,py,java,js,html,css,tailwind,react,vite,nodejs,express,flask,electron,firebase,supabase,git" alt="My Skills">
+  <br>
+  <img src="convex.png" alt="Convex" height="48">
+</p>
 
 
 ### Tools
