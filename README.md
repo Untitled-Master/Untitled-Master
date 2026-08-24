@@ -17,6 +17,8 @@
 ### Skills
 
 ![My Skills](https://skillicons.dev/icons?perline=8&i=c,py,java,js,html,css,tailwind,react,vite,nodejs,express,flask,electron,firebase,supabase,git)
+![convex](convex.png)
+
 
 ### Tools
 
@@ -25,11 +27,3 @@
 ### Others
 
 ![My Skills](https://skillicons.dev/icons?i=npm,github,netlify,vercel,stackoverflow)
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<br>
-
-|              ![](https://github-readme-stats.vercel.app/api?username=Untitled-Master&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)              |                ![](https://github-readme-streak-stats.herokuapp.com/?user=Untitled-Master&theme=tokyonight&hide_border=false)                |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Untitled-Master&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |SINCE SEP-4-2024 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@poincare&langs_count=7&layout=compact&theme=react) |
