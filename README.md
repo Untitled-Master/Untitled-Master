@@ -20,6 +20,7 @@
   <img src="https://skillicons.dev/icons?perline=8&i=c,py,java,js,html,css,tailwind,react,vite,nodejs,express,flask,electron,firebase,supabase,git" alt="My Skills">
   <br>
   <img src="convex.png" alt="Convex" height="48">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" height="48">
 </p>
 
 
